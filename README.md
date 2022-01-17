@@ -1,6 +1,7 @@
-# Django News Scraper
+## Project clone
 
-This is a Django project with a dashboard of news scraped using Celery Tasks
+- git clone https://github.com/saikatbhuiyan/django-test.git
+- cd django-test
 
 ## Project setup
 
